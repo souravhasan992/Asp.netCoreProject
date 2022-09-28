@@ -1,0 +1,82 @@
+﻿@model EvedinceFinal.ViewModels.VmEmpRegCreate
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />*@
+<h2>Update Reg Info</h2>
+@using (Html.BeginForm("AddOrEdit", "EmployeeRegistrations", FormMethod.Post, new { @enctype = "multipart/form-data", @id = "SubmitForm" }))
+{
+    @Html.AntiForgeryToken();
+    @Html.HiddenFor(t => t.Reg_ID)
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(t => t.Reg_Name)
+        </div>
+        <div class="input-field col s10">
+            @Html.EditorFor(t => t.Reg_Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(t => t.Reg_Name, "")
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(t => t.Gender)
+        </div>
+        <div class="input-field col s10">
+            @Html.EditorFor(t => t.Gender, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(t => t.Gender, "")
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(t => t.DoB)
+        </div>
+        <div class="input-field col s10">
+            @Html.TextBoxFor(t => t.DoB, "", new { htmlAttributes = new { @class = "datepicker" } })
+            @Html.ValidationMessageFor(t => t.DoB, "")
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(t => t.Email)
+        </div>
+        <div class="input-field col s10">
+            @Html.EditorFor(t => t.Email, "", new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(t => t.Email, "")
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(model => model.ImageUrl, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+        <img src="@Url.Content(Model.ImageUrl)" height="100" width="75" class="change_edit" id="imagePreview" />
+        <input type="file" name="ImageFile" class="form-control changeImage" onchange="ShowImagePreview(this,document.getElementById('imagePreview'))" />
+        @Html.ValidationMessageFor(model => model.ImageUrl, "")
+
+    </div>
+    <div class="form-group row">
+        <input type="submit" value="Update" class="btn btn-info" />
+    </div>
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('.datepicker').datepicker();
+    });
+    $(function () {
+        $('.changeImage').change(function () {
+            var input = this;
+            if (input.files) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('.change_edit').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+
+        })
+    })
+</script>
+

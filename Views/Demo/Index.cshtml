@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+   <button type="submit" asp-action="Create" asp-controller="Demo"> Add</button>
+
+</div>
+<div class="offset-1 col-lg-10">
+
+    <table class="table table-bordered  text-center" id="PermissionTable">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Emp Name (ID)</th>
+                <th scope="col">Designation</th>
+                <th scope="col" style="width:120px;">Action</th>
+            </tr>
+        </thead>
+        <tbody id="tdbody">
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+
+    <script>
+        $(function () {
+            LoadData();
+        });
+
+        function LoadData() {
+            
+                $.ajax({
+                url: '@Url.Action("Load", "Demo")',
+                type: "GET",
+                    success: function (response) {
+                        console.table(response);
+                        $('#tdbody').empty();
+                        for (var i = 0; i < response.length; i++) {
+                            if (typeof (response) === 'undefined') {
+                                return;
+                            }
+                            else{
+
+                                var sl = parseInt(i) + 1;
+                                $('#tdbody').append(
+                                    '<tr  ><th scope ="row" style="padding: 0.55rem;">' + sl + '</th><td >' + response[i].fullName + '(' + response[i].empID + ')' + ' </td><td>' + response[i].designation + '</td><td><div class="row" style="margin:auto;"> <button name="Detail" style="width: auto; margin: auto;" onclick="DetailPerm(' + "'" + response[i].empID + "'"+')" class="btn btn-success offset-md-1 col-md-5 col-sm-6 " type="button"><i class="bi bi-journal-text"></i></button> <button style="width: auto; margin: auto;" name="Revoke" onclick="DeletePerm(' + "'" + response[i].empID + "'," + "'" + response[i].fullName + "'" +')" class="btn btn-danger offset-md-1 col-md-5 col-sm-6" type="button"><i class="bi bi-trash-fill"></i></button> </div> </td></tr >'
+                                );
+                            }
+
+                        }
+                },
+                    error: function (response) {
+                        console.log(response);
+                    //alert(response);
+                }
+            });
+
+        }
+
+    </script>
+}

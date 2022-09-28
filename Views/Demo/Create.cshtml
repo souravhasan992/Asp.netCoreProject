@@ -1,0 +1,65 @@
+﻿@model EvedinceFinal.Models.Employee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form id="form" name="form" asp-action="Create" asp-controller="Demo" enctype="multipart/form-data" method="post">
+            <div class="buttons">
+                <div class="upload-button">
+                    <div class="label">Click me!</div>
+                    <input id="files" name="files" type="file" size="1"   />
+                </div>
+                <div>
+                    <input type="date" class="form-control" id="Date" />
+                </div>
+                <button type="button"  id="UploadBtn" class="btn btn-warning"  >Upload</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        $("#UploadBtn").click(function () {
+
+            uploadFiles('files');
+        });
+
+        function uploadFiles(inputId) {
+            var date =  $('#Date').val();
+            var input = document.getElementById(inputId);
+            var files = input.files;
+            var formData = new FormData();
+
+            for (var i = 0; i != files.length; i++) {
+                formData.append("file", files[i]);
+            }
+            formData.append('datetime', date);
+            console.log(formData);
+            $.ajax(
+                {
+                    url: '@Url.Action("Create", "Demo")',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    type: "POST",
+                    success: function (data) {
+
+                        alert("Files Uploaded!");
+                    }
+                }
+            );
+        }
+    </script>
+}

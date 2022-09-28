@@ -1,0 +1,68 @@
+﻿@model IEnumerable<EvedinceFinal.Models.Shift>
+
+<div class="col-md-10 offset-md-2">
+
+    <h1 class="text-center"><i class="fas fa-calendar text-success"></i> Shift Information</h1>
+
+
+    <table class="table" style="padding-left:100px">
+        <thead class="thead-light">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ShortCode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Onetime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OvertimeStart)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OvertimeEnd)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ShiftType)
+                </th>
+                <th>
+                    <a onclick="showInPopup('@Url.Action("AddOrEdit","Shifts",null,Context.Request.Scheme)', 'New Shift')" class="btn btn-success text-white"><i class="fas fa-plus"></i> New Shift</a>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShortCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Onetime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OvertimeStart)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OvertimeEnd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShiftType)
+                </td>
+                <td>
+                    <div>
+                        <a onclick="showInPopup('@Url.Action("AddOrEdit","Shifts",new {id=item.Shift_ID},Context.Request.Scheme)','Update Shift')" class="btn btn-info text-white"><i class="fas fa-pencil-alt"></i> Edit</a>
+                        <form asp-action="Delete" asp-route-id="@item.Shift_ID" onsubmit="return jQueryAjaxDelete(this)" class="d-inline">
+                            <input type="hidden" asp-for="@item.Shift_ID" />
+                            <input type="submit" value="Delete" class="btn btn-danger" />
+                        </form>
+                    </div>
+                </td>
+            </tr>}
+        </tbody>
+    </table>
+</div>

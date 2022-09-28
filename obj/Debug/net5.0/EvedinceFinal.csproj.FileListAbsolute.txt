@@ -1,0 +1,685 @@
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\appsettings.Development.json
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\appsettings.json
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.exe
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.deps.json
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.json
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.dev.json
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ref\EvedinceFinal.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.Views.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.Views.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Humanizer.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.GeneratedMSBuildEditorConfig.editorconfig
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.AssemblyInfoInputs.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.AssemblyInfo.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.CoreCompileInputs.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.MvcApplicationPartsAssemblyInfo.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.Manifest.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.xml
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\scopedcss\bundle\EvedinceFinal.styles.css
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.TagHelpers.input.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.TagHelpers.output.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorCoreGenerate.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.Views.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.CopyComplete
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\ref\EvedinceFinal.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.pdb
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.genruntimeconfig.cache
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\ASP.Net Core\New folder\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\ProjectInfo.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Demo\Index.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Demo\Create.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Create.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Delete.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Details.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Index.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\AddOrEdit.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\_ViewAll.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Create.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Delete.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Details.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Edit.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Index.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Create.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Delete.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Details.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Edit.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Index.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+H:\ASP.Net Core\New folder\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.exe
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.deps.json
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ref\EvedinceFinal.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.Views.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.Views.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.Manifest.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.xml
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\scopedcss\bundle\EvedinceFinal.styles.css
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.TagHelpers.input.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.TagHelpers.output.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorCoreGenerate.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Demo\Create.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Demo\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Create.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Delete.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Details.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Edit.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Create.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Delete.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Details.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Edit.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\ProjectInfo.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\AddOrEdit.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Create.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Delete.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Details.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\_ViewAll.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.Views.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\ref\EvedinceFinal.dll
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Exam\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csprojAssemblyReference.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\appsettings.Development.json
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\appsettings.json
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.exe
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.deps.json
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.json
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.dev.json
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ref\EvedinceFinal.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.Views.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\EvedinceFinal.Views.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Humanizer.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.AssemblyInfoInputs.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.AssemblyInfo.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.CoreCompileInputs.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.Manifest.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.xml
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\scopedcss\bundle\EvedinceFinal.styles.css
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.TagHelpers.input.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.TagHelpers.output.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorCoreGenerate.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Demo\Create.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Demo\Index.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Create.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Delete.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Details.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Edit.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Designations\Index.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Create.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Delete.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Details.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Edit.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Index.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\ProjectInfo.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\AddOrEdit.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Create.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Delete.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Details.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\Index.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\Shifts\_ViewAll.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cs
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.Views.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.CopyComplete
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\ref\EvedinceFinal.dll
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.pdb
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.genruntimeconfig.cache
+D:\c#\CF\c@\asp.net Core\1264266-Sazib Khan\1264266-Sazib Khan\EvedinceFinal\obj\Debug\net5.0\EvedinceFinal.csproj.AssemblyReference.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\appsettings.Development.json
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\appsettings.json
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.StaticWebAssets.xml
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.exe
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.deps.json
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.json
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.runtimeconfig.dev.json
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.Views.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\EvedinceFinal.Views.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Humanizer.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.csproj.AssemblyReference.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.AssemblyInfoInputs.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.AssemblyInfo.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.csproj.CoreCompileInputs.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.RazorAssemblyInfo.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\scopedcss\bundle\EvedinceFinal.styles.css
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.Manifest.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\staticwebassets\EvedinceFinal.StaticWebAssets.Pack.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\staticwebassets\msbuild.EvedinceFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\staticwebassets\msbuild.build.EvedinceFinal.props
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EvedinceFinal.props
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EvedinceFinal.props
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.TagHelpers.input.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.TagHelpers.output.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.RazorCoreGenerate.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Demo\Create.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Demo\Index.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Designations\Create.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Designations\Delete.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Designations\Details.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Designations\Edit.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Designations\Index.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Create.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Delete.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Details.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Edit.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\EmployeeRegistrations\Index.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shared\ProjectInfo.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shifts\AddOrEdit.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shifts\Create.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shifts\Delete.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shifts\Details.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shifts\Index.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\Shifts\_ViewAll.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.RazorTargetAssemblyInfo.cs
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.Views.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.csproj.CopyComplete
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\refint\EvedinceFinal.dll
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.pdb
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\EvedinceFinal.genruntimeconfig.cache
+D:\IDB\ASP.NET Core\EvedinceFinal_Mam\obj\Debug\net5.0\ref\EvedinceFinal.dll

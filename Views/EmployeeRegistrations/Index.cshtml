@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>CREATE Employee Registrations</h1>
+
+@Html.ActionLink("Create New", "Create", "EmployeeRegistrations", htmlAttributes: new { @class = "btn btn-primary", @role = "button" })
+<br />
+<br />
+<div>
+    <div>
+        <table border="1" class="table table-responsive">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Date of Birth</th>
+                    <th>Email</th>
+                    <th>Image</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Reg_Name</td>
+                    <td>@item.Gender</td>
+                    <td>@Convert.ToString(String.Format("{0:MM/dd/yyyy}", item.DoB))</td>
+                    <td>@item.Email</td>
+                    <td><img src="~/VM_Images/@item.ImageName" asp-append-version="true" width="75" height="100" /></td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Reg_ID }, htmlAttributes: new { @class = "btn btn-warning", @role = "button" })
+                        @Html.ActionLink("Delete", "Delete", "EmployeeRegistrations", new { id = item.Reg_ID }, htmlAttributes: new { @class = "btn btn-danger", @role = "button" })
+                    </td>
+
+                </tr>
+            }
+        </table>
+    </div>
+</div>
